@@ -9,11 +9,11 @@ And outputs as only Q
 
 ## Simulation
 
-![Simualtion Results](http://url/to/img.png)
+![Simualtion Results](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-2/dff_simulation.jpeg)
 
 ## Synthesis 
 
-![Synthesis](http://url/to/img.png)
+![Synthesis](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-2/dff_synthesis.jpeg)
 
 ## New things learnt
 
