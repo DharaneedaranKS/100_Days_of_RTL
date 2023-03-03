@@ -9,10 +9,10 @@ Output was out
 
 ## Simulation
 
-![Simulation result]{https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-3/edge_sim.jpeg}
+![Simulation result](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-3/edge_sim.jpeg)
 
 ## Synthesis 
-![Synthesis]{https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-3/edge_syn.jpeg}
+![Synthesis](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-3/edge_syn.jpeg)
 
 ## New things learnt
 - Hardcoding test benches test cases is waste of time. Use a lot of for loops
