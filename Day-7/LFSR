@@ -1,0 +1,6 @@
+# LFSR
+
+Built a 4-bit linear feedback shift register where the bit[0] of the register is driven by the XOR of the LFSR register bit[1] and bit[3]
+
+
+# Simualtion 
