@@ -4,10 +4,10 @@ Built a 4-bit linear feedback shift register where the bit[0] of the register is
 
 
 ## Simualtion 
-![simulation]{https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-7/lfsr_simulation.jpeg}
+![simulation](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-7/lfsr_simulation.jpeg)
 
 ## Synthesis 
-![synthesis]{https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-7/lfsr_synth.jpeg}
+![synthesis](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-7/lfsr_synth.jpeg)
 
 ## Observations and what learnt 
 - It synthesis if the if considtions for the reset is written as if(reset==1'b0) 
