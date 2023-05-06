@@ -4,8 +4,8 @@ A counter that when triggered loads a new value into the counter, otherwise perf
 
 ## Simulation 
 
-![Simulation]()
+![Simulation](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-10/reload_counter_sim.jpg)
 
 ## Synthesis
 
-![Synthesis]()
+![Synthesis](https://github.com/DharaneedaranKS/100_Days_of_RTL/blob/main/Day-10/reload_counter_synth.jpg)
